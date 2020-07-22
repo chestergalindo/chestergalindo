@@ -1,4 +1,7 @@
 ![](https://github.com/chestergalindo/chestergalindo/blob/master/coverGit.png)
+
+<h1> Cesar Galindo S. </h1>
+
 <!--
 🌱 I’m currently learning Frontend
 ### Hi there 👋
