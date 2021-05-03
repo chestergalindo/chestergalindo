@@ -13,8 +13,8 @@
 
 <hr>
 
-<h3>⚒&nbsp;&nbsp;&nbsp;My Tools</h3>
-<p >
+<h3 align='center' >⌨️&nbsp;&nbsp;&nbsp;My Tools</h3>
+<p align='center'>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
