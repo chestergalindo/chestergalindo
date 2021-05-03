@@ -18,23 +18,12 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-<!-- 
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jest%20-%2399425B.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/express%20-%23339933.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/gcp%20-%233369E8.svg?&style=for-the-badge&logo=google&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/linux%20-%23000.svg?&style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/firebase%20-%23FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/swagger%20-%236D9A00.svg?&style=for-the-badge&logo=swagger&logoColor=white" />&nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <!-- <hr>
