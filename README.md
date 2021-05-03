@@ -27,7 +27,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={chestergalindo}&theme=blue-green" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chestergalindo&theme=blue-green" />&nbsp;&nbsp;
 </p>
 
 <!-- <hr>
