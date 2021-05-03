@@ -13,7 +13,7 @@
 
 <hr>
 
-<h2 align='center' >⌨️&nbsp;&nbsp;&nbsp;My Tools</h2>
+<h2 align='center'>⌨️&nbsp;&nbsp;&nbsp;My Tools</h2>
 <p align='center'>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={chestergalindo}&theme=blue-green" />&nbsp;&nbsp;
 </p>
 
 <!-- <hr>
