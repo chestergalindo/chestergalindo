@@ -1,4 +1,4 @@
-![](https://github.com/chestergalindo/chestergalindo/blob/master/cover.png)
+![](https://github.com/chestergalindo/chestergalindo/blob/master/Blues.png)
 
 <!--
 🌱 I’m currently learning Frontend
