@@ -3,7 +3,7 @@
 <h1> I'm César Galindo 💻</h1>
 
 <p>
-   I'm Fronted developer. I like to create solutions with technologie like React, Css, Sass and more. Developing process and curios for learn somethingnew.
+   I'm Fronted developer. I like to create solutions with technologie like React, Css, Sass and more. Developing process and curios for learn something new.
 </p>
 
 <p align='center'>
