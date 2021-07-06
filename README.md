@@ -26,10 +26,6 @@
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chestergalindo&theme=blue-green" />&nbsp;&nbsp;
-</p>
-
 <!-- <hr>
 
 <h4>👨‍💻&nbsp;&nbsp;&nbsp;My Projects</h4>
